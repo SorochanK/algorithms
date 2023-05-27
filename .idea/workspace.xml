@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01483fde-9adf-4866-a011-77cdb5b41aa2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeightedRandomSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/IntersectionOfTwoArraysII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/MoveZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/easy/DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/easy/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/easy/PalindromeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/easy/RemoveNthNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/easy/ReverseLinkedLIst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy/FirstUniqueCharacterInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy/ImplementstrStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy/StringToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy/ValidAnagram.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O42Sp6onqByQ280PHTQjkwbk2W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.easy.RemoveDuplicatesFromSortedArray" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.easy.ReverseString" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strings.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.easy.RotateArray" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightedRandomSelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeightedRandomSelection" />
+      <module name="algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.WeightedRandomSelection" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.RotateArray" />
+        <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01483fde-9adf-4866-a011-77cdb5b41aa2" name="Changes" comment="" />
+      <created>1680805536898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680805536898</updated>
+      <workItem from="1680805538156" duration="6297000" />
+      <workItem from="1680945155311" duration="23889000" />
+      <workItem from="1681143630926" duration="7241000" />
+      <workItem from="1681211131279" duration="11505000" />
+      <workItem from="1681386190801" duration="821000" />
+      <workItem from="1681407400755" duration="5419000" />
+      <workItem from="1682506744065" duration="598000" />
+      <workItem from="1682937702896" duration="3994000" />
+      <workItem from="1683280110707" duration="629000" />
+      <workItem from="1683548258896" duration="1521000" />
+      <workItem from="1683885399376" duration="2044000" />
+      <workItem from="1684831184037" duration="635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/easy/SingleNumber.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/strings/easy/ValidPalindrome.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
